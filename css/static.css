@@ -1,0 +1,35 @@
+.main{
+  display:flex;
+  justify-content: space-around;
+  background-color: silver;
+}
+.sub1{
+  width:25%;
+  background: pink;
+  border: 2px solid grey;
+  justify-content: space-around;
+  text-align: center;
+  border-radius: 30px;
+  margin: 3%;
+  padding-left: 1%;
+}
+.sub2{
+  width:65%;
+  background: pink;
+  border: 2px solid grey;
+  justify-content: space-around;
+  text-align: left;
+  border-radius: 30px;
+    margin: 3%;
+    padding: 1%;
+}
+img{
+  width: 100%;
+}
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+table th,td{
+  border-collapse: collapse;
+}

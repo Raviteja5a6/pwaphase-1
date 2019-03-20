@@ -1,0 +1,48 @@
+{
+	"basics": {
+		"img": "images/img5.png ",
+		"name": "ravi teja",
+		"emailid": "sompalliraviteja143@gmail.com"
+	},
+  "career":
+  {
+	"goal": "i want to seek a position where i can explore my skills and thoughts"
+},
+"education": [
+  {
+		"sn": "1",
+		"degree": "btech",
+		"yop": "2021",
+		"percentage": "92%"
+	},
+  {
+    "sn":"2",
+		"degree": "inter",
+		"yop": "2017",
+		"percentage": "95%"
+  },
+  {
+    "sn":"3",
+    "degree": "ssc",
+    "yop": "2015",
+    "percentage": "80%"
+  }
+],
+"skills":[
+  {
+    "info":"java"
+  },
+  {
+    "info":"c"
+  },
+  {
+    "info":"html"
+  },
+  {
+    "info":"css"
+  },
+  {
+    "info":"php"
+  }
+]
+}
